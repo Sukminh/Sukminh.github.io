@@ -28,7 +28,14 @@ I like both Korean and American songs...
 ![Melody - ASH ISLAND](/assets/img/Melody_Ash.jpeg)
 ![Vancouver - BIG Naughty](/assets/img/vancouver_big.jpeg)
 ![Painkiller_Ruel](/assets/img/Painkiller_Ruel.jpeg)
+![Rainy Day - Pateko](/assets/img/rainyday.jpeg)
+![Lemon - Kenshi Yonezu](/assets/img/lemon.jpeg)
 
-***&emsp;&emsp;Movie - JUNNY&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Melody - ASH ISLAND&emsp;&emsp;&emsp;&emsp;Vancouver - BIG Naughty&emsp;&emsp;&emsp;&emsp;Painkiller - Ruel***
+- ***Movie - JUNNY***
+- ***Melody - ASH ISLAND***
+- ***Vancouver - BIG Naughty***
+- ***Painkiller - Ruel***
+- ***Rainy Day - PATEKO***
+- ***Lemon - Kenshi Yonezu***
 
 To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.

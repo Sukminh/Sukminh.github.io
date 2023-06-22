@@ -3,9 +3,9 @@ layout: post
 title: Pacman
 subtitle: Play Pacman
 gh-repo: Sukminh/cross-pacman
-cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/thumb.png
-share-img: /assets/img/path.jpg
+cover-img: /assets/img/pacmancover.png
+thumbnail-img: /assets/img/pacmanthumb.jpeg
+share-img: /assets/img/pacmancover.png
 tags: [python]
 ---
 

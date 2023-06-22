@@ -3,7 +3,7 @@ layout: post
 title: Discord Chatbot
 subtitle: GPTBot
 gh-repo: Sukminh/discord_chatbot
-thumbnail-img: /assets/img/thumb.png
+thumbnail-img: /assets/img/discordimage.png
 tags: [python, api]
 comments: true
 ---

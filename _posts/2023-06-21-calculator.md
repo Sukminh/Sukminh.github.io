@@ -3,7 +3,7 @@ layout: post
 title: Calculator
 subtitle: Do Calculation
 gh-repo: Sukminh/odin-Calculator
-thumbnail-img: /assets/img/pacmanthumb.jpeg
+thumbnail-img: /assets/img/Screen Shot 2023-06-21 at 8.26.13 PM.png
 tags: [html, css, javascript]
 ---
 

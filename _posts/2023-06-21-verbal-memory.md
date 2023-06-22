@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Verbal Memory
-subtitle: Testing Verbal Memory
+subtitle: Test Your Verbal Memory
 gh-repo: Sukminh/verbal_memory_humanbmark
 tags: [html, css, javascript]
 comments: true
